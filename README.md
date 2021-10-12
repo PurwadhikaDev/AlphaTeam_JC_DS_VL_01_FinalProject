@@ -42,4 +42,4 @@ Data ini merupakan data daftar mobil bekas hasil dari scraping web Exchange and 
 * price : Harga yang ditawarkan (bukan diharga berapa mobil terjual) dalam bentuk £ (Poundsterling).
 
 ## Modeling
-Model yang digunakan menggunakan algoritma Random Forest, sehingga dalam penggunaan model machine learning dapat menjawab ke 'black-box'an model sehingga dengan visualisasi yang berupa feature importance, global summary, dan local summary yang bisa menjelaskan decision process model machine learning yang dibuat.
+Algoritma ML yang digunakan adalah Random Forest. Pengguna model ML ini nantinya adalah orang yang awam dibidang data, maka untuk menjawab ke 'black-box'an model, kita berikan visualisasi berupa feature importance, global summary, dan local summary yang bisa menjelaskan decision process model ML kita.
