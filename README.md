@@ -1,4 +1,4 @@
-![Banner](https://github.com/PurwadhikaDev/AlphaTeam_JC_DS_VL_01_FinalProject/blob/main/image/cover.jpg)
+
 
 # AlphaTeam_JC_DS_VL_01_FinalProject
 
